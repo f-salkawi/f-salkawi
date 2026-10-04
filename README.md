@@ -50,6 +50,10 @@ A 3D scientific calculator with its own expression parser (no `eval`, no maths l
 - **Placement Application Tracker (Python):** deadlines, stages, requirement checklists and
   reminders exported to a phone calendar. Becoming my CS50P final project.
 
+- **Concept website for a whiskey brand (AI-assisted web design):** an immersive brand site with a
+  3D bottle viewer, seven product editions and an 18+ age gate, designed with AI tools and tuned to
+  run smoothly on phone and laptop.
+
 The code for these projects is private. I'm happy to walk through it or share access on request.
 
 ---
