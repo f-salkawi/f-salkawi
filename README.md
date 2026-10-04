@@ -1,8 +1,8 @@
 ### Hi, I'm Faris
 
 Computer Science with Artificial Intelligence student at the University of Brighton, looking for a
-2027–28 placement year in software or AI engineering. I design and deliver complete products
-using AI coding tools, and I'm building my own programming skills through Python (Harvard's CS50P).
+2027–28 placement year in software or AI engineering. Currently strengthening my Python through
+Harvard's CS50P.
 
 ---
 
@@ -10,8 +10,7 @@ using AI coding tools, and I'm building my own programming skills through Python
 
 **[Live (invite-only)](https://knight-salkawi.onrender.com)**
 
-Designed and delivered using AI coding tools: I defined the product, directed the build, tested
-every feature and deployed it. Log workouts, meals and progress through normal screens, or just
+Log workouts, meals and progress through normal screens, or just
 talk to it: say *"I did three sets of ten push-ups"* and it prepares the workout for you to confirm.
 
 - The AI can only **propose** changes. Nothing is saved until you confirm, and each change
@@ -30,9 +29,7 @@ talk to it: say *"I did three sets of ten push-ups"* and it prepares the workout
 
 **[Try it live](https://knight-scientific.onrender.com)**
 
-A 3D scientific calculator with its own expression parser (no `eval`, no maths library),
-designed and delivered using AI coding tools: I defined the features, directed the build and
-tested it.
+A 3D scientific calculator with its own expression parser (no `eval`, no maths library).
 
 - **Scientific:** order of operations, trigonometry, logs, powers, factorials, memory.
 - **AI & ML:** vectors, sigmoid, ReLU, softmax, dot product, cosine similarity and statistics.
@@ -48,12 +45,10 @@ tested it.
 ### More projects
 
 - **KNIGHT Private Bank (Java, JavaFX):** an ATM simulator built as a five-person team project
-  in year 1 (MVC, inheritance across account types). I wrote the welcome and goodbye screens and
-  the transaction history; the black-and-gold redesign and demo bank card were added later using
-  AI coding tools.
+  in year 1 (MVC, inheritance across account types). My parts: the welcome and goodbye screens and
+  the transaction history. Later redesigned in black and gold with a demo bank card feature.
 - **Placement Application Tracker (Python):** deadlines, stages, requirement checklists and
-  reminders exported to a phone calendar. Started as my own small script, then rebuilt using AI
-  coding tools; I'm rewriting it myself as my CS50P final project.
+  reminders exported to a phone calendar. Becoming my CS50P final project.
 
 The code for these projects is private. I'm happy to walk through it or share access on request.
 
