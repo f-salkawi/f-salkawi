@@ -1,8 +1,8 @@
 ### Hi, I'm Faris
 
 Computer Science with Artificial Intelligence student at the University of Brighton, looking for a
-2027–28 placement year in software or AI engineering. I build complete products: from the
-database and the AI integration to a polished interface, deployed and tested.
+2027–28 placement year in software or AI engineering. I design and deliver complete products
+using AI coding tools, and I'm building my own programming skills through Python (Harvard's CS50P).
 
 ---
 
@@ -10,8 +10,9 @@ database and the AI integration to a polished interface, deployed and tested.
 
 **[Live (invite-only)](https://knight-salkawi.onrender.com)**
 
-Log workouts, meals and progress through normal screens, or just talk to it: say *"I did three
-sets of ten push-ups"* and it prepares the workout for you to confirm.
+Designed and delivered using AI coding tools: I defined the product, directed the build, tested
+every feature and deployed it. Log workouts, meals and progress through normal screens, or just
+talk to it: say *"I did three sets of ten push-ups"* and it prepares the workout for you to confirm.
 
 - The AI can only **propose** changes. Nothing is saved until you confirm, and each change
   applies at most once.
@@ -29,8 +30,9 @@ sets of ten push-ups"* and it prepares the workout for you to confirm.
 
 **[Try it live](https://knight-scientific.onrender.com)**
 
-A 3D scientific calculator built on an expression parser I wrote from scratch (no `eval`, no
-maths library).
+A 3D scientific calculator with its own expression parser (no `eval`, no maths library),
+designed and delivered using AI coding tools: I defined the features, directed the build and
+tested it.
 
 - **Scientific:** order of operations, trigonometry, logs, powers, factorials, memory.
 - **AI & ML:** vectors, sigmoid, ReLU, softmax, dot product, cosine similarity and statistics.
@@ -46,11 +48,12 @@ maths library).
 ### More projects
 
 - **KNIGHT Private Bank (Java, JavaFX):** an ATM simulator built as a five-person team project
-  in year 1 (MVC, inheritance across account types). I built the transaction history, then
-  redesigned the whole app in black and gold and added a demo bank card feature.
-- **Placement Application Tracker (Python):** the tool I use for my own applications: deadlines,
-  stages, requirement checklists and reminders exported to my phone calendar. Tested with
-  `unittest`.
+  in year 1 (MVC, inheritance across account types). I wrote the welcome and goodbye screens and
+  the transaction history; the black-and-gold redesign and demo bank card were added later using
+  AI coding tools.
+- **Placement Application Tracker (Python):** deadlines, stages, requirement checklists and
+  reminders exported to a phone calendar. Started as my own small script, then rebuilt using AI
+  coding tools; I'm rewriting it myself as my CS50P final project.
 
 The code for these projects is private. I'm happy to walk through it or share access on request.
 
